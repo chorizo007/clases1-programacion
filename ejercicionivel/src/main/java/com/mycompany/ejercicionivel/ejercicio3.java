@@ -38,7 +38,6 @@ public class ejercicio3 {
         
         System.out.println("la suma de todos los numeros de la matriz es : " + suma );
         System.out.println("la media es " + suma /(columnas*filas));
-        System.out.println(columnas*filas);
         scanner.close();
     }
 
